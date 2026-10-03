@@ -19,3 +19,5 @@ engineer.
 - **[terraform-iac-patterns](https://github.com/detahermana/terraform-iac-patterns)** — Opinionated Terraform modules for Azure, AWS, and GCP. Secure defaults, explicit egress, documented reasoning.
 - **[devsecops-pipeline-patterns](https://github.com/detahermana/devsecops-pipeline-patterns)** — A CI/CD architecture that separates who writes code from who can deploy: four quality gates, one reviewed path to production, manual deploy on purpose.
 - **[observability-security-stack](https://github.com/detahermana/observability-security-stack)** — Self-hosted monitoring and SIEM: Prometheus, Grafana, Loki, Wazuh, Alertmanager — deployed as code.
+
+[Portfolio](https://portfolio.ire.my.id) · [GitHub](https://github.com/detahermana)
